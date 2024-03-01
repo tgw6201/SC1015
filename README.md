@@ -1,6 +1,4 @@
-# SC1015
-A project that analyses heart attack datasets and makes predictions base on data provided
-
+# A project that analyses heart attack datasets and makes predictions base on data provided
 
 About Dataset
 * Age (Age of patient) (Numerical)
