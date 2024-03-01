@@ -6,7 +6,7 @@ About Dataset
 * Age (Age of patient) (Numerical)
 * Sex (Sex of patient 1 = Male, 2 = Female)  
 * Exang (Exercise-induced angina, meaning chest pain when exercising 1 = Yes, 2 = No)
-* ca (Number of major vessels (0-3) colored by flourosopy, 0 represents a higher likelihood of having heart diseases)
+* ca (Number of major vessels (0-4) colored by flourosopy, 0 represents a higher likelihood of having heart diseases)
 * cp (Chest pain type)  
   0: Typical angina  
   1: Atypical angina  
