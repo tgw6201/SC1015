@@ -3,7 +3,7 @@
 This is the mini project for SC1015(Introduction to Data Science & Artificial Intelligence). <br>
 Cardiovascular diseases (CVDs) are the leading cause of death globally with an estimated 17.9 million casualties in 2019, making it 32% of all global deaths. Most cardiovascular diseases are caused by poor lifestyle choices and can be easily prevented by addressing these behavioural risk factors. Hence it is important for early detection of cardiovascular diseases so that appropriate measures can be taken to prevent life-threatening scenarios. We aim to create a model to help sieve through large amounts of data reducing the work load on medical professionals. <br>
 
-## Team Members
+## Team Members (Lab FCS1 - Team 03)
 Tan Guang Wei - EDA, Models, Conclusion <br>
 Kwek Chong Yee, Wallace - EDA, Models, Conclusion <br>
 
