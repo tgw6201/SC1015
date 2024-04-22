@@ -28,9 +28,10 @@ To create a model that is capable of predicting the likelihood of contracting he
 
 ## Key Takeaways
 <ul>
-    <li> We explored further techniques in machine learning such as Support Vector Machines (SVMs) and Artificial Neural Networs (ANNs) </li>
+    <li> We explored further techniques in machine learning such as Support Vector Machines (SVMs) and Artificial Neural Networks (ANNs) </li>
     <li> We deepened existing knowledge learnt during the course, such as Decision Trees, where we explored Entropy Criterion </li>
-    <li> We learnt new techniques to process data such as the box-cox transformation which helps to shift our data towards a normal distribution </li>
+    <li> We learnt new techniques to process data such as the box-cox transformation which helps to shift our data towards a normal distribution, benefitting most of our models </li>
+    <li> We got to experience firsthand the applications of Data Science and Artificial Intelligence in solving real-world problems and see the benefits it can bring to improve workflow efficiency in virtually any industry </li>
 </ul>
 
 
